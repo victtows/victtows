@@ -5,6 +5,5 @@
 🛠️ Tecnologias: Python | Java | Linux | Cibersegurança  
 📫 Me encontre em: [LinkedIn](www.linkedin.com/in/josé-victor-50371b230) | [Portfolio](https://victtows.github.io/MeuPortfolio.github.io/)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
