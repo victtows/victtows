@@ -20,6 +20,6 @@ Minha jornada acadêmica é marcada por um grande interesse em explorar como as 
 
 
 ### 📊 Estatística
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victtows&show_icons=true&theme=tokyonight&hide_rank=true&card_width=400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victtows&show_icons=true&theme=tokyonight&hide_rank=true&card_width=500)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victtows&layout=compact&theme=radical)
 
