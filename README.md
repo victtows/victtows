@@ -2,6 +2,11 @@
 
 💻 Desenvolvedor apaixonado por segurança da informação e cinema de terror!  
 🎓 Cursando **Sistemas de Informação** no **IFC Araquari**  
+
+Meu nome é José Victor e sou estudante de Sistemas de Informação no Instituto Federal Catarinense (IFC). Tenho formação técnica em Informática e sou apaixonado por tecnologia, segurança da informação, desenvolvimento web e banco de dados.
+
+Minha jornada acadêmica é marcada por um grande interesse em explorar como as tecnologias podem ser aplicadas de maneira inovadora, seja para resolver problemas reais ou criar novas experiências. Durante minha formação, tive a oportunidade de trabalhar com manutenção de computadores, instalação de sistemas operacionais, configuração de redes e, mais recentemente, com desenvolvimento web, onde criei projetos como um site de clima usando API.
+
 📫 Me encontre em: [LinkedIn](www.linkedin.com/in/josé-victor-50371b230) | [Portfolio](https://victtows.github.io/MeuPortfolio.github.io/)
 
 ### 🛠️ Linguagens e tecnologias
