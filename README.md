@@ -19,6 +19,6 @@ Minha jornada acadêmica é marcada por um grande interesse em explorar como as 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-
+###  Estatística
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
